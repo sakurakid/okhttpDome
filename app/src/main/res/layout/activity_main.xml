@@ -32,7 +32,7 @@
             android:text="文件下载"/>
 
     </LinearLayout>
-    <ImageView
+    <TextView
         android:id="@+id/iv_show"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
